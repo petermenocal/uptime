@@ -4,14 +4,35 @@ repo: uptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Exhale Brands
-    url: https://www.exhalebrands.com
-  - name: Test for HEAD
-    method: HEAD
-    url: https://www.google.com
-  - name: Secret Site
-    url: $SECRET_SITE
-
+  - name: Exhale Brands Website
+    url: https://www.exhalebrands.com/
+  - name: Effex Supply Co. Website
+    url: https://effexsupplyco.com
+  - name: SMS Dashboard
+    url: http://cherami.exhalenevada.com:3000/
+  - name: Mail System
+    url: https://box.effexsupply.com/mail/
+  - name: Budtender Control Panel
+    url: https://xorders.web.app/
+  - name: People Management Control Panel
+    url: https://xpeople.web.app/
+  - name: Now Serving Control Panel
+    url: https://xserving-admin.web.app/
+  - name: Stats Dashboard
+    url: https://xstats.web.app/
+  - name: Store Menu - Now Serving Display
+    url: https://xserving.web.app
+  - name: Store Menu - Concentrates
+    url: https://xconcentrates.web.app/
+  - name: Store Menu - Edibles
+    url: https://xedibles.web.app/
+  - name: Store Menu - Flower
+    url: https://xflower.web.app/
+  - name: Store Menu - Prerolls
+    url: https://xprerolls.web.app/
+  - name: Store Menu - Vapes
+    url: https://xvapes.web.app/
+    
 status-website:
   baseUrl: /uptime # where "repo" is your repository name
   name: Uptime
