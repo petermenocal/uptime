@@ -4,9 +4,9 @@ repo: uptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Exhale Brands Website
+  - name: Exhale Brands 
     url: https://www.exhalebrands.com/
-  - name: Effex Supply Co. Website
+  - name: Effex Supply Co.
     url: https://effexsupply.com
   - name: SMS Dashboard
     url: http://cherami.exhalenevada.com:3000/
