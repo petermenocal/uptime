@@ -4,8 +4,10 @@ repo: uptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Exhale Brands 
+  - name: Exhale Brands - Website
     url: https://www.exhalebrands.com/
+  - name: Exhale Brands - API
+    url: https://us-central1-xhl-budtender.cloudfunctions.net/app/profile?q=961a6e98-1bcc-4c6b-b335-019df010f12c&searchType=true
   - name: Effex Supply Co.
     url: https://effexsupply.com
   - name: SMS Dashboard
