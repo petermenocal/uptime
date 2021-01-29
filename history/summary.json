@@ -63,18 +63,18 @@
     "icon": "https://favicons.githubusercontent.com/cherami.exhalenevada.com",
     "slug": "sms-dashboard",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.73%",
+    "uptimeDay": "96.47%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.73%",
     "time": 369,
     "timeDay": 261,
     "timeWeek": 407,
     "timeMonth": 369,
     "timeYear": 369,
     "dailyMinutesDown": {
-      "2021-01-29": 0
+      "2021-01-29": 51
     }
   },
   {
