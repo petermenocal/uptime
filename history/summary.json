@@ -12,7 +12,7 @@
     "uptimeYear": "98.69%",
     "time": 634,
     "timeDay": 0,
-    "timeWeek": 512,
+    "timeWeek": 552,
     "timeMonth": 386,
     "timeYear": 634,
     "dailyMinutesDown": {
@@ -27,17 +27,17 @@
     "url": "https://us-central1-xhl-budtender.cloudfunctions.net/app/profile?q=961a6e98-1bcc-4c6b-b335-019df010f12c&searchType=true",
     "icon": "https://favicons.githubusercontent.com/us-central1-xhl-budtender.cloudfunctions.net",
     "slug": "exhale-brands-api",
-    "status": "down",
+    "status": "up",
     "uptime": "97.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.06%",
-    "time": 910,
-    "timeDay": 0,
-    "timeWeek": 1073,
-    "timeMonth": 1384,
-    "timeYear": 910,
+    "time": 907,
+    "timeDay": 654,
+    "timeWeek": 1009,
+    "timeMonth": 1365,
+    "timeYear": 907,
     "dailyMinutesDown": {
       "2021-03-11": 20,
       "2021-02-19": 1233,
@@ -58,7 +58,7 @@
     "uptimeYear": "99.92%",
     "time": 362,
     "timeDay": 0,
-    "timeWeek": 225,
+    "timeWeek": 216,
     "timeMonth": 237,
     "timeYear": 362,
     "dailyMinutesDown": {
@@ -79,7 +79,7 @@
     "uptimeYear": "98.18%",
     "time": 283,
     "timeDay": 0,
-    "timeWeek": 205,
+    "timeWeek": 202,
     "timeMonth": 237,
     "timeYear": 283,
     "dailyMinutesDown": {
@@ -101,7 +101,7 @@
     "uptimeYear": "99.44%",
     "time": 325,
     "timeDay": 0,
-    "timeWeek": 189,
+    "timeWeek": 166,
     "timeMonth": 211,
     "timeYear": 325,
     "dailyMinutesDown": {
@@ -130,7 +130,7 @@
     "uptimeYear": "100.00%",
     "time": 223,
     "timeDay": 0,
-    "timeWeek": 189,
+    "timeWeek": 194,
     "timeMonth": 156,
     "timeYear": 223,
     "dailyMinutesDown": {}
@@ -166,7 +166,7 @@
     "uptimeYear": "100.00%",
     "time": 220,
     "timeDay": 0,
-    "timeWeek": 164,
+    "timeWeek": 167,
     "timeMonth": 128,
     "timeYear": 220,
     "dailyMinutesDown": {}
@@ -184,7 +184,7 @@
     "uptimeYear": "100.00%",
     "time": 219,
     "timeDay": 0,
-    "timeWeek": 132,
+    "timeWeek": 124,
     "timeMonth": 118,
     "timeYear": 219,
     "dailyMinutesDown": {}
@@ -202,7 +202,7 @@
     "uptimeYear": "100.00%",
     "time": 211,
     "timeDay": 0,
-    "timeWeek": 120,
+    "timeWeek": 116,
     "timeMonth": 115,
     "timeYear": 211,
     "dailyMinutesDown": {}
@@ -220,7 +220,7 @@
     "uptimeYear": "100.00%",
     "time": 227,
     "timeDay": 0,
-    "timeWeek": 141,
+    "timeWeek": 147,
     "timeMonth": 124,
     "timeYear": 227,
     "dailyMinutesDown": {}
@@ -238,7 +238,7 @@
     "uptimeYear": "100.00%",
     "time": 199,
     "timeDay": 0,
-    "timeWeek": 107,
+    "timeWeek": 108,
     "timeMonth": 113,
     "timeYear": 199,
     "dailyMinutesDown": {}
@@ -292,7 +292,7 @@
     "uptimeYear": "100.00%",
     "time": 214,
     "timeDay": 0,
-    "timeWeek": 142,
+    "timeWeek": 146,
     "timeMonth": 166,
     "timeYear": 214,
     "dailyMinutesDown": {}
