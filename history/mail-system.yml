@@ -1,7 +1,7 @@
 url: https://box.effexsupply.com/mail/
-status: up
-code: 200
-responseTime: 159
-lastUpdated: 2021-06-13T23:00:30.995Z
+status: down
+code: 502
+responseTime: 244
+lastUpdated: 2021-06-14T10:55:19.320Z
 startTime: Fri Jan 15 2021 22:10:53 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
