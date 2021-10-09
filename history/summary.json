@@ -4,7 +4,7 @@
     "url": "https://www.exhalebrands.com/",
     "icon": "https://favicons.githubusercontent.com/www.exhalebrands.com",
     "slug": "exhale-brands-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 260,
     "timeYear": 401,
     "dailyMinutesDown": {
+      "2021-10-09": 0,
       "2021-06-08": 39,
       "2021-02-03": 43,
       "2021-02-02": 1242,
