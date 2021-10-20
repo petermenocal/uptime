@@ -143,19 +143,19 @@
     "url": "https://xorders.web.app/",
     "icon": "https://favicons.githubusercontent.com/xorders.web.app",
     "slug": "budtender-control-panel",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
-    "time": 135,
+    "time": 134,
     "timeDay": 70,
-    "timeWeek": 87,
-    "timeMonth": 89,
-    "timeYear": 135,
+    "timeWeek": 85,
+    "timeMonth": 88,
+    "timeYear": 134,
     "dailyMinutesDown": {
-      "2021-10-20": 5,
+      "2021-10-20": 8,
       "2021-06-08": 50
     }
   },
@@ -166,9 +166,9 @@
     "slug": "people-management-control-panel",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 126,
     "timeDay": 61,
@@ -176,7 +176,7 @@
     "timeMonth": 79,
     "timeYear": 126,
     "dailyMinutesDown": {
-      "2021-10-20": 5,
+      "2021-10-20": 11,
       "2021-06-08": 32
     }
   },
@@ -187,9 +187,9 @@
     "slug": "now-serving-control-panel",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 129,
     "timeDay": 74,
@@ -197,7 +197,7 @@
     "timeMonth": 72,
     "timeYear": 129,
     "dailyMinutesDown": {
-      "2021-10-20": 4,
+      "2021-10-20": 11,
       "2021-06-08": 18
     }
   },
@@ -208,9 +208,9 @@
     "slug": "stats-dashboard",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.71%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 146,
     "timeDay": 43,
@@ -218,7 +218,7 @@
     "timeMonth": 79,
     "timeYear": 146,
     "dailyMinutesDown": {
-      "2021-10-20": 4,
+      "2021-10-20": 11,
       "2021-06-08": 18
     }
   },
@@ -229,9 +229,9 @@
     "slug": "store-menu-now-serving-display",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.73%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
     "time": 122,
     "timeDay": 102,
@@ -239,7 +239,7 @@
     "timeMonth": 72,
     "timeYear": 122,
     "dailyMinutesDown": {
-      "2021-10-20": 4,
+      "2021-10-20": 10,
       "2021-06-08": 58
     }
   },
@@ -250,9 +250,9 @@
     "slug": "store-menu-concentrates",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 148,
     "timeDay": 74,
@@ -260,7 +260,7 @@
     "timeMonth": 77,
     "timeYear": 148,
     "dailyMinutesDown": {
-      "2021-10-20": 4,
+      "2021-10-20": 10,
       "2021-06-08": 46
     }
   },
@@ -269,19 +269,19 @@
     "url": "https://xedibles.web.app/",
     "icon": "https://favicons.githubusercontent.com/xedibles.web.app",
     "slug": "store-menu-edibles",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 116,
-    "timeDay": 45,
+    "timeDay": 55,
     "timeWeek": 66,
     "timeMonth": 67,
     "timeYear": 116,
     "dailyMinutesDown": {
-      "2021-10-20": 3,
+      "2021-10-20": 8,
       "2021-06-08": 18
     }
   },
@@ -291,18 +291,18 @@
     "icon": "https://favicons.githubusercontent.com/xflower.web.app",
     "slug": "store-menu-flower",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 117,
     "timeDay": 67,
     "timeWeek": 87,
     "timeMonth": 79,
     "timeYear": 117,
     "dailyMinutesDown": {
-      "2021-10-20": 3,
+      "2021-10-20": 10,
       "2021-06-08": 54
     }
   },
@@ -313,9 +313,9 @@
     "slug": "store-menu-prerolls",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 119,
     "timeDay": 67,
@@ -323,7 +323,7 @@
     "timeMonth": 69,
     "timeYear": 119,
     "dailyMinutesDown": {
-      "2021-10-20": 3,
+      "2021-10-20": 9,
       "2021-06-08": 18
     }
   },
@@ -334,9 +334,9 @@
     "slug": "store-menu-vapes",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
     "time": 121,
     "timeDay": 90,
@@ -344,7 +344,7 @@
     "timeMonth": 64,
     "timeYear": 121,
     "dailyMinutesDown": {
-      "2021-10-20": 3,
+      "2021-10-20": 9,
       "2021-06-08": 58
     }
   }
