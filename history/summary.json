@@ -28,7 +28,7 @@
     "url": "https://us-central1-xhl-budtender.cloudfunctions.net/app/profile?q=961a6e98-1bcc-4c6b-b335-019df010f12c&searchType=true",
     "icon": "https://favicons.githubusercontent.com/us-central1-xhl-budtender.cloudfunctions.net",
     "slug": "exhale-brands-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.19%",
     "uptimeDay": "97.16%",
     "uptimeWeek": "99.59%",
