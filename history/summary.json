@@ -4,19 +4,19 @@
     "url": "https://www.exhalebrands.com/",
     "icon": "https://favicons.githubusercontent.com/www.exhalebrands.com",
     "slug": "exhale-brands-website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "95.21%",
-    "uptimeWeek": "99.00%",
-    "uptimeMonth": "99.77%",
+    "uptimeDay": "94.66%",
+    "uptimeWeek": "98.92%",
+    "uptimeMonth": "99.75%",
     "uptimeYear": "99.80%",
-    "time": 329,
-    "timeDay": 498,
-    "timeWeek": 540,
-    "timeMonth": 343,
-    "timeYear": 330,
+    "time": 330,
+    "timeDay": 536,
+    "timeWeek": 562,
+    "timeMonth": 358,
+    "timeYear": 332,
     "dailyMinutesDown": {
-      "2022-06-30": 69,
+      "2022-06-30": 77,
       "2022-06-25": 32,
       "2022-05-11": 15,
       "2022-05-05": 19,
@@ -40,7 +40,7 @@
     "timeMonth": 1741,
     "timeYear": 1269,
     "dailyMinutesDown": {
-      "2022-06-30": 1381,
+      "2022-06-30": 1389,
       "2022-06-29": 1440,
       "2022-06-28": 1440,
       "2022-06-27": 1440,
@@ -98,7 +98,7 @@
     "time": 237,
     "timeDay": 232,
     "timeWeek": 456,
-    "timeMonth": 361,
+    "timeMonth": 363,
     "timeYear": 249,
     "dailyMinutesDown": {}
   },
@@ -116,7 +116,7 @@
     "time": 197,
     "timeDay": 186,
     "timeWeek": 145,
-    "timeMonth": 135,
+    "timeMonth": 136,
     "timeYear": 191,
     "dailyMinutesDown": {
       "2022-05-17": 199,
@@ -138,7 +138,7 @@
     "time": 185,
     "timeDay": 198,
     "timeWeek": 230,
-    "timeMonth": 490,
+    "timeMonth": 500,
     "timeYear": 189,
     "dailyMinutesDown": {
       "2022-04-26": 99,
@@ -191,7 +191,7 @@
     "time": 104,
     "timeDay": 115,
     "timeWeek": 121,
-    "timeMonth": 142,
+    "timeMonth": 135,
     "timeYear": 100,
     "dailyMinutesDown": {}
   },
@@ -209,7 +209,7 @@
     "time": 94,
     "timeDay": 99,
     "timeWeek": 145,
-    "timeMonth": 120,
+    "timeMonth": 121,
     "timeYear": 89,
     "dailyMinutesDown": {
       "2021-10-20": 18
@@ -229,7 +229,7 @@
     "time": 94,
     "timeDay": 131,
     "timeWeek": 118,
-    "timeMonth": 103,
+    "timeMonth": 105,
     "timeYear": 89,
     "dailyMinutesDown": {
       "2021-10-20": 17
@@ -249,7 +249,7 @@
     "time": 101,
     "timeDay": 129,
     "timeWeek": 100,
-    "timeMonth": 123,
+    "timeMonth": 124,
     "timeYear": 86,
     "dailyMinutesDown": {
       "2021-10-20": 17
@@ -309,7 +309,7 @@
     "time": 86,
     "timeDay": 69,
     "timeWeek": 78,
-    "timeMonth": 112,
+    "timeMonth": 111,
     "timeYear": 84,
     "dailyMinutesDown": {}
   },
@@ -327,7 +327,7 @@
     "time": 84,
     "timeDay": 100,
     "timeWeek": 82,
-    "timeMonth": 87,
+    "timeMonth": 86,
     "timeYear": 78,
     "dailyMinutesDown": {
       "2021-10-20": 16
@@ -347,7 +347,7 @@
     "time": 81,
     "timeDay": 59,
     "timeWeek": 76,
-    "timeMonth": 83,
+    "timeMonth": 84,
     "timeYear": 75,
     "dailyMinutesDown": {
       "2021-10-20": 16
