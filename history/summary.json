@@ -6,17 +6,17 @@
     "slug": "exhale-brands-website",
     "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "94.66%",
-    "uptimeWeek": "98.92%",
-    "uptimeMonth": "99.75%",
+    "uptimeDay": "95.23%",
+    "uptimeWeek": "99.00%",
+    "uptimeMonth": "99.77%",
     "uptimeYear": "99.80%",
     "time": 330,
     "timeDay": 536,
     "timeWeek": 562,
-    "timeMonth": 358,
+    "timeMonth": 361,
     "timeYear": 332,
     "dailyMinutesDown": {
-      "2022-06-30": 77,
+      "2022-06-30": 69,
       "2022-06-25": 32,
       "2022-05-11": 15,
       "2022-05-05": 19,
@@ -29,18 +29,19 @@
     "icon": "https://favicons.githubusercontent.com/us-central1-xhl-budtender.cloudfunctions.net",
     "slug": "exhale-brands-api",
     "status": "down",
-    "uptime": "92.96%",
+    "uptime": "92.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "90.49%",
+    "uptimeMonth": "1.38%",
+    "uptimeYear": "90.47%",
     "time": 1158,
     "timeDay": 3964,
     "timeWeek": 4708,
     "timeMonth": 1741,
     "timeYear": 1269,
     "dailyMinutesDown": {
-      "2022-06-30": 1389,
+      "2022-07-01": 24,
+      "2022-06-30": 1440,
       "2022-06-29": 1440,
       "2022-06-28": 1440,
       "2022-06-27": 1440,
@@ -138,7 +139,7 @@
     "time": 185,
     "timeDay": 198,
     "timeWeek": 230,
-    "timeMonth": 500,
+    "timeMonth": 507,
     "timeYear": 189,
     "dailyMinutesDown": {
       "2022-04-26": 99,
@@ -209,7 +210,7 @@
     "time": 94,
     "timeDay": 99,
     "timeWeek": 145,
-    "timeMonth": 121,
+    "timeMonth": 120,
     "timeYear": 89,
     "dailyMinutesDown": {
       "2021-10-20": 18
@@ -229,7 +230,7 @@
     "time": 94,
     "timeDay": 131,
     "timeWeek": 118,
-    "timeMonth": 105,
+    "timeMonth": 102,
     "timeYear": 89,
     "dailyMinutesDown": {
       "2021-10-20": 17
@@ -289,7 +290,7 @@
     "time": 102,
     "timeDay": 107,
     "timeWeek": 103,
-    "timeMonth": 116,
+    "timeMonth": 115,
     "timeYear": 98,
     "dailyMinutesDown": {
       "2021-10-20": 17
@@ -327,7 +328,7 @@
     "time": 84,
     "timeDay": 100,
     "timeWeek": 82,
-    "timeMonth": 86,
+    "timeMonth": 85,
     "timeYear": 78,
     "dailyMinutesDown": {
       "2021-10-20": 16
@@ -347,7 +348,7 @@
     "time": 81,
     "timeDay": 59,
     "timeWeek": 76,
-    "timeMonth": 84,
+    "timeMonth": 83,
     "timeYear": 75,
     "dailyMinutesDown": {
       "2021-10-20": 16
