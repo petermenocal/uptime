@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
-    "time": 489,
-    "timeDay": 845,
-    "timeWeek": 999,
-    "timeMonth": 961,
-    "timeYear": 591,
+    "time": 490,
+    "timeDay": 905,
+    "timeWeek": 988,
+    "timeMonth": 967,
+    "timeYear": 593,
     "dailyMinutesDown": {
       "2022-07-01": 23,
       "2022-06-30": 69,
@@ -30,18 +30,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/us-central1-xhl-budtender.cloudfunctions.net.ico",
     "slug": "exhale-brands-api",
     "status": "down",
-    "uptime": "73.82%",
+    "uptime": "73.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "52.80%",
-    "time": 1741,
-    "timeDay": 3492,
-    "timeWeek": 2462,
-    "timeMonth": 3517,
-    "timeYear": 1982,
+    "uptimeYear": "52.70%",
+    "time": 1778,
+    "timeDay": 18184,
+    "timeWeek": 4282,
+    "timeMonth": 4000,
+    "timeYear": 2030,
     "dailyMinutesDown": {
-      "2022-11-15": 941,
+      "2022-11-16": 24,
+      "2022-11-15": 1440,
       "2022-11-14": 1440,
       "2022-11-13": 1440,
       "2022-11-12": 1440,
@@ -216,8 +217,7 @@
       "2022-05-27": 283,
       "2022-03-07": 557,
       "2022-01-03": 19,
-      "2022-01-02": 22,
-      "2021-11-16": 22
+      "2022-01-02": 22
     }
   },
   {
@@ -232,10 +232,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 277,
-    "timeDay": 187,
-    "timeWeek": 296,
-    "timeMonth": 374,
-    "timeYear": 292,
+    "timeDay": 283,
+    "timeWeek": 298,
+    "timeMonth": 359,
+    "timeYear": 293,
     "dailyMinutesDown": {}
   },
   {
@@ -244,18 +244,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cherami.exhalenevada.com.ico",
     "slug": "sms-dashboard",
     "status": "down",
-    "uptime": "79.66%",
+    "uptime": "79.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "63.19%",
+    "uptimeYear": "63.09%",
     "time": 190,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 194,
     "dailyMinutesDown": {
-      "2022-11-15": 941,
+      "2022-11-16": 24,
+      "2022-11-15": 1440,
       "2022-11-14": 1440,
       "2022-11-13": 1440,
       "2022-11-12": 1440,
@@ -406,11 +407,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.59%",
-    "time": 206,
-    "timeDay": 136,
-    "timeWeek": 239,
-    "timeMonth": 277,
-    "timeYear": 217,
+    "time": 207,
+    "timeDay": 266,
+    "timeWeek": 246,
+    "timeMonth": 272,
+    "timeYear": 218,
     "dailyMinutesDown": {
       "2022-04-26": 99,
       "2022-04-25": 33,
@@ -436,8 +437,7 @@
       "2021-12-17": 58,
       "2021-11-24": 20,
       "2021-11-19": 18,
-      "2021-11-18": 19,
-      "2021-11-16": 83
+      "2021-11-18": 19
     }
   },
   {
@@ -451,11 +451,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 106,
-    "timeDay": 98,
-    "timeWeek": 91,
-    "timeMonth": 106,
-    "timeYear": 113,
+    "time": 113,
+    "timeDay": 3782,
+    "timeWeek": 620,
+    "timeMonth": 224,
+    "timeYear": 123,
     "dailyMinutesDown": {}
   },
   {
@@ -465,18 +465,16 @@
     "slug": "people-management-control-panel",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 90,
-    "timeDay": 88,
-    "timeWeek": 87,
-    "timeMonth": 93,
+    "timeDay": 89,
+    "timeWeek": 86,
+    "timeMonth": 91,
     "timeYear": 94,
-    "dailyMinutesDown": {
-      "2022-11-15": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Now Serving Control Panel",
@@ -485,18 +483,16 @@
     "slug": "now-serving-control-panel",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 90,
-    "timeDay": 125,
-    "timeWeek": 102,
-    "timeMonth": 98,
+    "time": 89,
+    "timeDay": 120,
+    "timeWeek": 98,
+    "timeMonth": 99,
     "timeYear": 93,
-    "dailyMinutesDown": {
-      "2022-11-15": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Stats Dashboard",
@@ -505,18 +501,16 @@
     "slug": "stats-dashboard",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 86,
-    "timeDay": 89,
-    "timeWeek": 92,
-    "timeMonth": 88,
+    "timeDay": 104,
+    "timeWeek": 88,
+    "timeMonth": 87,
     "timeYear": 89,
-    "dailyMinutesDown": {
-      "2022-11-15": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Store Menu - Now Serving Display",
@@ -525,18 +519,16 @@
     "slug": "store-menu-now-serving-display",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 81,
-    "timeDay": 96,
-    "timeWeek": 83,
+    "timeDay": 98,
+    "timeWeek": 81,
     "timeMonth": 87,
     "timeYear": 84,
-    "dailyMinutesDown": {
-      "2022-11-15": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Store Menu - Concentrates",
@@ -545,18 +537,16 @@
     "slug": "store-menu-concentrates",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 94,
-    "timeDay": 91,
+    "timeDay": 86,
     "timeWeek": 84,
     "timeMonth": 87,
     "timeYear": 87,
-    "dailyMinutesDown": {
-      "2022-11-15": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Store Menu - Edibles",
@@ -565,18 +555,16 @@
     "slug": "store-menu-edibles",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 83,
-    "timeDay": 97,
-    "timeWeek": 82,
+    "timeDay": 94,
+    "timeWeek": 81,
     "timeMonth": 81,
     "timeYear": 87,
-    "dailyMinutesDown": {
-      "2022-11-15": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Store Menu - Flower",
@@ -585,18 +573,16 @@
     "slug": "store-menu-flower",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 79,
-    "timeDay": 84,
-    "timeWeek": 80,
+    "timeDay": 91,
+    "timeWeek": 78,
     "timeMonth": 81,
     "timeYear": 82,
-    "dailyMinutesDown": {
-      "2022-11-15": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Store Menu - Prerolls",
@@ -610,9 +596,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 76,
-    "timeDay": 67,
-    "timeWeek": 78,
-    "timeMonth": 75,
+    "timeDay": 89,
+    "timeWeek": 77,
+    "timeMonth": 74,
     "timeYear": 77,
     "dailyMinutesDown": {}
   },
@@ -623,17 +609,15 @@
     "slug": "store-menu-vapes",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 77,
-    "timeDay": 81,
+    "timeDay": 92,
     "timeWeek": 72,
     "timeMonth": 77,
     "timeYear": 80,
-    "dailyMinutesDown": {
-      "2022-11-15": 6
-    }
+    "dailyMinutesDown": {}
   }
 ]
