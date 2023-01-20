@@ -34,14 +34,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "34.92%",
+    "uptimeYear": "34.90%",
     "time": 2224,
     "timeDay": 4958,
     "timeWeek": 3653,
     "timeMonth": 4125,
     "timeYear": 2402,
     "dailyMinutesDown": {
-      "2023-01-19": 1394,
+      "2023-01-20": 21,
+      "2023-01-19": 1440,
       "2023-01-18": 1440,
       "2023-01-17": 1440,
       "2023-01-16": 1440,
@@ -310,14 +311,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "45.30%",
+    "uptimeYear": "45.29%",
     "time": 192,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 201,
     "dailyMinutesDown": {
-      "2023-01-19": 1394,
+      "2023-01-20": 22,
+      "2023-01-19": 1440,
       "2023-01-18": 1440,
       "2023-01-17": 1440,
       "2023-01-16": 1440,
@@ -552,8 +554,7 @@
       "2022-03-01": 16,
       "2022-02-20": 130,
       "2022-02-19": 291,
-      "2022-01-21": 119,
-      "2022-01-20": 87
+      "2022-01-21": 119
     }
   },
   {
@@ -635,18 +636,16 @@
     "slug": "store-menu-now-serving-display",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 82,
     "timeDay": 60,
     "timeWeek": 72,
     "timeMonth": 78,
     "timeYear": 85,
-    "dailyMinutesDown": {
-      "2023-01-19": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Store Menu - Concentrates",
@@ -655,18 +654,16 @@
     "slug": "store-menu-concentrates",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 92,
     "timeDay": 82,
     "timeWeek": 84,
     "timeMonth": 78,
     "timeYear": 96,
-    "dailyMinutesDown": {
-      "2023-01-19": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Store Menu - Edibles",
@@ -693,18 +690,16 @@
     "slug": "store-menu-flower",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 80,
     "timeDay": 58,
     "timeWeek": 89,
     "timeMonth": 80,
     "timeYear": 82,
-    "dailyMinutesDown": {
-      "2023-01-19": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Store Menu - Prerolls",
