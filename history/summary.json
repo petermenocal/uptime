@@ -39,7 +39,7 @@
     "timeMonth": 427,
     "timeYear": 2671,
     "dailyMinutesDown": {
-      "2023-06-16": 963,
+      "2023-06-16": 967,
       "2023-06-15": 1440,
       "2023-06-14": 1440,
       "2023-06-13": 1440,
@@ -441,7 +441,7 @@
     "timeMonth": 0,
     "timeYear": 142,
     "dailyMinutesDown": {
-      "2023-06-16": 963,
+      "2023-06-16": 967,
       "2023-06-15": 1440,
       "2023-06-14": 1440,
       "2023-06-13": 1440,
@@ -814,19 +814,19 @@
     "url": "https://xorders.web.app/",
     "icon": "https://icons.duckduckgo.com/ip3/xorders.web.app.ico",
     "slug": "budtender-control-panel",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 128,
-    "timeDay": 32,
-    "timeWeek": 74,
+    "timeDay": 62,
+    "timeWeek": 76,
     "timeMonth": 98,
     "timeYear": 132,
     "dailyMinutesDown": {
-      "2023-06-16": 3
+      "2023-06-16": 7
     }
   },
   {
@@ -834,19 +834,19 @@
     "url": "https://xpeople.web.app/",
     "icon": "https://icons.duckduckgo.com/ip3/xpeople.web.app.ico",
     "slug": "people-management-control-panel",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.97%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 112,
-    "timeDay": 83,
-    "timeWeek": 1263,
-    "timeMonth": 372,
-    "timeYear": 118,
+    "timeDay": 249,
+    "timeWeek": 1157,
+    "timeMonth": 374,
+    "timeYear": 119,
     "dailyMinutesDown": {
-      "2023-06-16": 3
+      "2023-06-16": 6
     }
   },
   {
@@ -854,19 +854,19 @@
     "url": "https://xserving-admin.web.app/",
     "icon": "https://icons.duckduckgo.com/ip3/xserving-admin.web.app.ico",
     "slug": "now-serving-control-panel",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.84%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "99.59%",
+    "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 102,
-    "timeDay": 4690,
-    "timeWeek": 727,
-    "timeMonth": 233,
+    "timeDay": 2415,
+    "timeWeek": 654,
+    "timeMonth": 231,
     "timeYear": 105,
     "dailyMinutesDown": {
-      "2023-06-16": 2
+      "2023-06-16": 6
     }
   },
   {
@@ -874,19 +874,19 @@
     "url": "https://xstats.web.app/",
     "icon": "https://icons.duckduckgo.com/ip3/xstats.web.app.ico",
     "slug": "stats-dashboard",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 111,
-    "timeDay": 5055,
-    "timeWeek": 1512,
-    "timeMonth": 411,
+    "timeDay": 2572,
+    "timeWeek": 1334,
+    "timeMonth": 401,
     "timeYear": 118,
     "dailyMinutesDown": {
-      "2023-06-16": 2
+      "2023-06-16": 5
     }
   },
   {
@@ -894,19 +894,19 @@
     "url": "https://xserving.web.app",
     "icon": "https://icons.duckduckgo.com/ip3/xserving.web.app.ico",
     "slug": "store-menu-now-serving-display",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 90,
-    "timeDay": 81,
-    "timeWeek": 262,
+    "timeDay": 117,
+    "timeWeek": 249,
     "timeMonth": 137,
     "timeYear": 91,
     "dailyMinutesDown": {
-      "2023-06-16": 1
+      "2023-06-16": 5
     }
   },
   {
@@ -914,19 +914,19 @@
     "url": "https://xconcentrates.web.app/",
     "icon": "https://icons.duckduckgo.com/ip3/xconcentrates.web.app.ico",
     "slug": "store-menu-concentrates",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 113,
-    "timeDay": 5091,
-    "timeWeek": 1373,
-    "timeMonth": 383,
+    "timeDay": 2585,
+    "timeWeek": 1211,
+    "timeMonth": 373,
     "timeYear": 121,
     "dailyMinutesDown": {
-      "2023-06-16": 1
+      "2023-06-16": 5
     }
   },
   {
