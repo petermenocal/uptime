@@ -1,7 +1,7 @@
 url: https://xstats.web.app/
-status: up
-code: 200
-responseTime: 382
-lastUpdated: 2023-10-02T23:00:36.333Z
+status: down
+code: 502
+responseTime: 3491
+lastUpdated: 2023-10-03T02:00:08.383Z
 startTime: 2021-01-15T22:10:57.000Z
 generator: Upptime <https://github.com/upptime/upptime>
