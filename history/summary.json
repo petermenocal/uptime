@@ -26,7 +26,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/us-central1-xhl-budtender.cloudfunctions.net.ico",
     "slug": "exhale-brands-api",
     "status": "down",
-    "uptime": "49.86%",
+    "uptime": "49.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -37,7 +37,7 @@
     "timeMonth": 761,
     "timeYear": 2013,
     "dailyMinutesDown": {
-      "2023-10-03": 18,
+      "2023-10-03": 121,
       "2023-10-02": 1440,
       "2023-10-01": 1440,
       "2023-09-30": 1440,
@@ -428,7 +428,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cherami.exhalenevada.com.ico",
     "slug": "sms-dashboard",
     "status": "down",
-    "uptime": "53.81%",
+    "uptime": "53.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -439,7 +439,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-03": 18,
+      "2023-10-03": 122,
       "2023-10-02": 1440,
       "2023-10-01": 1440,
       "2023-09-30": 1440,
@@ -829,10 +829,10 @@
     "url": "https://xorders.web.app/",
     "icon": "https://icons.duckduckgo.com/ip3/xorders.web.app.ico",
     "slug": "budtender-control-panel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 128,
@@ -840,124 +840,138 @@
     "timeWeek": 113,
     "timeMonth": 109,
     "timeYear": 129,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-03": 2
+    }
   },
   {
     "name": "People Management Control Panel",
     "url": "https://xpeople.web.app/",
     "icon": "https://icons.duckduckgo.com/ip3/xpeople.web.app.ico",
     "slug": "people-management-control-panel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 115,
-    "timeDay": 102,
-    "timeWeek": 143,
-    "timeMonth": 108,
+    "timeDay": 110,
+    "timeWeek": 140,
+    "timeMonth": 109,
     "timeYear": 121,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-03": 2
+    }
   },
   {
     "name": "Now Serving Control Panel",
     "url": "https://xserving-admin.web.app/",
     "icon": "https://icons.duckduckgo.com/ip3/xserving-admin.web.app.ico",
     "slug": "now-serving-control-panel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 106,
-    "timeDay": 88,
-    "timeWeek": 111,
-    "timeMonth": 104,
+    "timeDay": 210,
+    "timeWeek": 139,
+    "timeMonth": 111,
     "timeYear": 110,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-03": 2
+    }
   },
   {
     "name": "Stats Dashboard",
     "url": "https://xstats.web.app/",
     "icon": "https://icons.duckduckgo.com/ip3/xstats.web.app.ico",
     "slug": "stats-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 113,
-    "timeDay": 382,
-    "timeWeek": 133,
-    "timeMonth": 104,
-    "timeYear": 120,
-    "dailyMinutesDown": {}
+    "time": 120,
+    "timeDay": 1937,
+    "timeWeek": 553,
+    "timeMonth": 214,
+    "timeYear": 129,
+    "dailyMinutesDown": {
+      "2023-10-03": 2
+    }
   },
   {
     "name": "Store Menu - Now Serving Display",
     "url": "https://xserving.web.app",
     "icon": "https://icons.duckduckgo.com/ip3/xserving.web.app.ico",
     "slug": "store-menu-now-serving-display",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 92,
-    "timeDay": 89,
-    "timeWeek": 91,
-    "timeMonth": 96,
-    "timeYear": 94,
-    "dailyMinutesDown": {}
+    "time": 104,
+    "timeDay": 2988,
+    "timeWeek": 815,
+    "timeMonth": 283,
+    "timeYear": 110,
+    "dailyMinutesDown": {
+      "2023-10-03": 1
+    }
   },
   {
     "name": "Store Menu - Concentrates",
     "url": "https://xconcentrates.web.app/",
     "icon": "https://icons.duckduckgo.com/ip3/xconcentrates.web.app.ico",
     "slug": "store-menu-concentrates",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 114,
-    "timeDay": 97,
-    "timeWeek": 108,
-    "timeMonth": 97,
-    "timeYear": 123,
-    "dailyMinutesDown": {}
+    "time": 161,
+    "timeDay": 11704,
+    "timeWeek": 3008,
+    "timeMonth": 845,
+    "timeYear": 186,
+    "dailyMinutesDown": {
+      "2023-10-03": 1
+    }
   },
   {
     "name": "Store Menu - Edibles",
     "url": "https://xedibles.web.app/",
     "icon": "https://icons.duckduckgo.com/ip3/xedibles.web.app.ico",
     "slug": "store-menu-edibles",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 98,
-    "timeDay": 145,
-    "timeWeek": 91,
-    "timeMonth": 90,
+    "timeDay": 100,
+    "timeWeek": 87,
+    "timeMonth": 89,
     "timeYear": 100,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-03": 1
+    }
   },
   {
     "name": "Store Menu - Flower",
     "url": "https://xflower.web.app/",
     "icon": "https://icons.duckduckgo.com/ip3/xflower.web.app.ico",
     "slug": "store-menu-flower",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -966,42 +980,48 @@
     "timeWeek": 78,
     "timeMonth": 87,
     "timeYear": 105,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-03": 0
+    }
   },
   {
     "name": "Store Menu - Prerolls",
     "url": "https://xprerolls.web.app/",
     "icon": "https://icons.duckduckgo.com/ip3/xprerolls.web.app.ico",
     "slug": "store-menu-prerolls",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 92,
-    "timeDay": 80,
-    "timeWeek": 81,
-    "timeMonth": 88,
+    "timeDay": 72,
+    "timeWeek": 79,
+    "timeMonth": 87,
     "timeYear": 97,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-03": 0
+    }
   },
   {
     "name": "Store Menu - Vapes",
     "url": "https://xvapes.web.app/",
     "icon": "https://icons.duckduckgo.com/ip3/xvapes.web.app.ico",
     "slug": "store-menu-vapes",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 94,
-    "timeDay": 67,
+    "timeDay": 76,
     "timeWeek": 86,
     "timeMonth": 98,
     "timeYear": 98,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-03": 0
+    }
   }
 ]
