@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 731,
-    "timeDay": 467,
-    "timeWeek": 539,
-    "timeMonth": 510,
-    "timeYear": 678,
+    "timeDay": 366,
+    "timeWeek": 504,
+    "timeMonth": 511,
+    "timeYear": 677,
     "dailyMinutesDown": {
       "2023-08-08": 32,
       "2023-03-23": 23
@@ -26,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/us-central1-xhl-budtender.cloudfunctions.net.ico",
     "slug": "exhale-brands-api",
     "status": "down",
-    "uptime": "49.85%",
+    "uptime": "49.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 2142,
-    "timeDay": 1484,
-    "timeWeek": 1173,
-    "timeMonth": 761,
-    "timeYear": 2013,
+    "time": 2144,
+    "timeDay": 1698,
+    "timeWeek": 1399,
+    "timeMonth": 815,
+    "timeYear": 1999,
     "dailyMinutesDown": {
-      "2023-10-03": 133,
+      "2023-10-04": 19,
+      "2023-10-03": 1440,
       "2023-10-02": 1440,
       "2023-10-01": 1440,
       "2023-09-30": 1440,
@@ -400,8 +401,7 @@
       "2022-10-08": 1440,
       "2022-10-07": 1440,
       "2022-10-06": 1440,
-      "2022-10-05": 1440,
-      "2022-10-04": 1440
+      "2022-10-05": 1440
     }
   },
   {
@@ -416,10 +416,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 336,
-    "timeDay": 589,
-    "timeWeek": 399,
-    "timeMonth": 381,
-    "timeYear": 333,
+    "timeDay": 165,
+    "timeWeek": 348,
+    "timeMonth": 374,
+    "timeYear": 332,
     "dailyMinutesDown": {}
   },
   {
@@ -428,18 +428,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/cherami.exhalenevada.com.ico",
     "slug": "sms-dashboard",
     "status": "down",
-    "uptime": "53.80%",
+    "uptime": "53.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 135,
+    "time": 133,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-03": 133,
+      "2023-10-04": 19,
+      "2023-10-03": 1440,
       "2023-10-02": 1440,
       "2023-10-01": 1440,
       "2023-09-30": 1440,
@@ -802,8 +803,7 @@
       "2022-10-08": 1440,
       "2022-10-07": 1440,
       "2022-10-06": 1440,
-      "2022-10-05": 1440,
-      "2022-10-04": 1440
+      "2022-10-05": 1440
     }
   },
   {
@@ -817,10 +817,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 255,
-    "timeDay": 341,
-    "timeWeek": 311,
-    "timeMonth": 279,
+    "time": 256,
+    "timeDay": 187,
+    "timeWeek": 281,
+    "timeMonth": 278,
     "timeYear": 242,
     "dailyMinutesDown": {}
   },
@@ -831,18 +831,16 @@
     "slug": "budtender-control-panel",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 128,
-    "timeDay": 120,
-    "timeWeek": 111,
+    "timeDay": 87,
+    "timeWeek": 101,
     "timeMonth": 108,
     "timeYear": 129,
-    "dailyMinutesDown": {
-      "2023-10-03": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "People Management Control Panel",
@@ -851,18 +849,16 @@
     "slug": "people-management-control-panel",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 115,
-    "timeDay": 96,
-    "timeWeek": 132,
+    "timeDay": 82,
+    "timeWeek": 130,
     "timeMonth": 107,
     "timeYear": 121,
-    "dailyMinutesDown": {
-      "2023-10-03": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Now Serving Control Panel",
@@ -871,18 +867,16 @@
     "slug": "now-serving-control-panel",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 106,
-    "timeDay": 163,
-    "timeWeek": 131,
-    "timeMonth": 110,
+    "timeDay": 156,
+    "timeWeek": 121,
+    "timeMonth": 109,
     "timeYear": 110,
-    "dailyMinutesDown": {
-      "2023-10-03": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Stats Dashboard",
@@ -891,18 +885,16 @@
     "slug": "stats-dashboard",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 120,
-    "timeDay": 1314,
-    "timeWeek": 499,
-    "timeMonth": 209,
+    "timeDay": 1216,
+    "timeWeek": 498,
+    "timeMonth": 208,
     "timeYear": 129,
-    "dailyMinutesDown": {
-      "2023-10-03": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Store Menu - Now Serving Display",
@@ -911,18 +903,16 @@
     "slug": "store-menu-now-serving-display",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 104,
-    "timeDay": 2023,
-    "timeWeek": 735,
-    "timeMonth": 277,
+    "timeDay": 2011,
+    "timeWeek": 730,
+    "timeMonth": 275,
     "timeYear": 110,
-    "dailyMinutesDown": {
-      "2023-10-03": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Store Menu - Concentrates",
@@ -930,19 +920,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/xconcentrates.web.app.ico",
     "slug": "store-menu-concentrates",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 161,
-    "timeDay": 7834,
-    "timeWeek": 2684,
-    "timeMonth": 822,
+    "timeDay": 7829,
+    "timeWeek": 2679,
+    "timeMonth": 821,
     "timeYear": 186,
-    "dailyMinutesDown": {
-      "2023-10-03": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Store Menu - Edibles",
@@ -951,18 +939,16 @@
     "slug": "store-menu-edibles",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 98,
-    "timeDay": 89,
-    "timeWeek": 85,
-    "timeMonth": 88,
+    "time": 97,
+    "timeDay": 66,
+    "timeWeek": 82,
+    "timeMonth": 87,
     "timeYear": 100,
-    "dailyMinutesDown": {
-      "2023-10-03": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Store Menu - Flower",
@@ -970,19 +956,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/xflower.web.app.ico",
     "slug": "store-menu-flower",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 99,
-    "timeDay": 82,
-    "timeWeek": 77,
-    "timeMonth": 87,
+    "time": 98,
+    "timeDay": 58,
+    "timeWeek": 71,
+    "timeMonth": 84,
     "timeYear": 105,
-    "dailyMinutesDown": {
-      "2023-10-03": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Store Menu - Prerolls",
@@ -991,18 +975,16 @@
     "slug": "store-menu-prerolls",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 92,
-    "timeDay": 71,
-    "timeWeek": 78,
-    "timeMonth": 86,
+    "timeDay": 60,
+    "timeWeek": 73,
+    "timeMonth": 85,
     "timeYear": 97,
-    "dailyMinutesDown": {
-      "2023-10-03": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Store Menu - Vapes",
@@ -1011,17 +993,15 @@
     "slug": "store-menu-vapes",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 94,
-    "timeDay": 81,
-    "timeWeek": 86,
-    "timeMonth": 98,
+    "timeDay": 78,
+    "timeWeek": 82,
+    "timeMonth": 94,
     "timeYear": 98,
-    "dailyMinutesDown": {
-      "2023-10-03": 12
-    }
+    "dailyMinutesDown": {}
   }
 ]
