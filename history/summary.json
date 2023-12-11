@@ -40,7 +40,7 @@
     "timeMonth": 1267,
     "timeYear": 1519,
     "dailyMinutesDown": {
-      "2023-12-11": 1382,
+      "2023-12-11": 1387,
       "2023-12-10": 1440,
       "2023-12-09": 1440,
       "2023-12-08": 1440,
@@ -442,7 +442,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-11": 1382,
+      "2023-12-11": 1388,
       "2023-12-10": 1440,
       "2023-12-09": 1440,
       "2023-12-08": 1440,
@@ -850,19 +850,19 @@
     "url": "https://xpeople.web.app/",
     "icon": "https://icons.duckduckgo.com/ip3/xpeople.web.app.ico",
     "slug": "people-management-control-panel",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 113,
-    "timeDay": 0,
-    "timeWeek": 92,
+    "timeDay": 77,
+    "timeWeek": 90,
     "timeMonth": 84,
     "timeYear": 121,
     "dailyMinutesDown": {
-      "2023-12-11": 0
+      "2023-12-11": 5
     }
   },
   {
