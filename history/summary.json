@@ -29,7 +29,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/us-central1-xhl-budtender.cloudfunctions.net.ico",
     "slug": "exhale-brands-api",
     "status": "down",
-    "uptime": "45.41%",
+    "uptime": "45.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -40,7 +40,7 @@
     "timeMonth": 1170,
     "timeYear": 1288,
     "dailyMinutesDown": {
-      "2024-01-08": 21,
+      "2024-01-08": 1119,
       "2024-01-07": 1440,
       "2024-01-06": 1440,
       "2024-01-05": 1440,
@@ -412,10 +412,10 @@
     "url": "https://effexsupply.com",
     "icon": "https://icons.duckduckgo.com/ip3/effexsupply.com.ico",
     "slug": "effex-supply-co",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 326,
@@ -423,7 +423,9 @@
     "timeWeek": 346,
     "timeMonth": 345,
     "timeYear": 329,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-08": 1
+    }
   },
   {
     "name": "SMS Dashboard",
@@ -431,7 +433,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cherami.exhalenevada.com.ico",
     "slug": "sms-dashboard",
     "status": "down",
-    "uptime": "49.00%",
+    "uptime": "48.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -442,7 +444,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-08": 21,
+      "2024-01-08": 1119,
       "2024-01-07": 1440,
       "2024-01-06": 1440,
       "2024-01-05": 1440,
