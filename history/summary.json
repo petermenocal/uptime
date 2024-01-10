@@ -40,7 +40,7 @@
     "timeMonth": 1213,
     "timeYear": 1267,
     "dailyMinutesDown": {
-      "2024-01-10": 1239,
+      "2024-01-10": 1243,
       "2024-01-09": 1440,
       "2024-01-08": 1440,
       "2024-01-07": 1440,
@@ -412,19 +412,19 @@
     "url": "https://effexsupply.com",
     "icon": "https://icons.duckduckgo.com/ip3/effexsupply.com.ico",
     "slug": "effex-supply-co",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 326,
-    "timeDay": 254,
-    "timeWeek": 373,
-    "timeMonth": 365,
+    "timeDay": 292,
+    "timeWeek": 368,
+    "timeMonth": 364,
     "timeYear": 330,
     "dailyMinutesDown": {
-      "2024-01-10": 1
+      "2024-01-10": 5
     }
   },
   {
@@ -444,7 +444,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-10": 1239,
+      "2024-01-10": 1243,
       "2024-01-09": 1440,
       "2024-01-08": 1440,
       "2024-01-07": 1440,
