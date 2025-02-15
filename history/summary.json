@@ -28,7 +28,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/us-central1-xhl-budtender.cloudfunctions.net.ico",
     "slug": "exhale-brands-api",
     "status": "down",
-    "uptime": "33.11%",
+    "uptime": "33.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -39,7 +39,7 @@
     "timeMonth": 112,
     "timeYear": 401,
     "dailyMinutesDown": {
-      "2025-02-15": 25,
+      "2025-02-15": 610,
       "2025-02-14": 1440,
       "2025-02-13": 1440,
       "2025-02-12": 1440,
@@ -411,10 +411,10 @@
     "url": "https://effexsupply.com",
     "icon": "https://icons.duckduckgo.com/ip3/effexsupply.com.ico",
     "slug": "effex-supply-co",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 290,
@@ -422,7 +422,9 @@
     "timeWeek": 324,
     "timeMonth": 287,
     "timeYear": 287,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-15": 1
+    }
   },
   {
     "name": "SMS Dashboard",
@@ -430,7 +432,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cherami.exhalenevada.com.ico",
     "slug": "sms-dashboard",
     "status": "down",
-    "uptime": "35.73%",
+    "uptime": "35.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -441,7 +443,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-15": 25,
+      "2025-02-15": 610,
       "2025-02-14": 1440,
       "2025-02-13": 1440,
       "2025-02-12": 1440,
@@ -813,18 +815,20 @@
     "url": "https://box.effexsupply.com/mail/",
     "icon": "https://icons.duckduckgo.com/ip3/box.effexsupply.com.ico",
     "slug": "mail-system",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 230,
+    "time": 229,
     "timeDay": 505,
     "timeWeek": 299,
     "timeMonth": 228,
     "timeYear": 229,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-15": 0
+    }
   },
   {
     "name": "Budtender Control Panel",
