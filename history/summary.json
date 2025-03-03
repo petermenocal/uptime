@@ -39,7 +39,7 @@
     "timeMonth": 119,
     "timeYear": 337,
     "dailyMinutesDown": {
-      "2025-03-03": 1053,
+      "2025-03-03": 1073,
       "2025-03-02": 1440,
       "2025-03-01": 1440,
       "2025-02-28": 1440,
@@ -411,9 +411,9 @@
     "url": "https://effexsupply.com",
     "icon": "https://icons.duckduckgo.com/ip3/effexsupply.com.ico",
     "slug": "effex-supply-co",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "98.77%",
+    "uptimeDay": "98.72%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "98.15%",
     "uptimeYear": "99.85%",
@@ -423,7 +423,7 @@
     "timeMonth": 330,
     "timeYear": 292,
     "dailyMinutesDown": {
-      "2025-03-03": 18,
+      "2025-03-03": 19,
       "2025-02-15": 791
     }
   },
@@ -444,7 +444,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-03": 1053,
+      "2025-03-03": 1073,
       "2025-03-02": 1440,
       "2025-03-01": 1440,
       "2025-02-28": 1440,
@@ -816,9 +816,9 @@
     "url": "https://box.effexsupply.com/mail/",
     "icon": "https://icons.duckduckgo.com/ip3/box.effexsupply.com.ico",
     "slug": "mail-system",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "98.80%",
+    "uptimeDay": "98.79%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "98.16%",
     "uptimeYear": "99.85%",
