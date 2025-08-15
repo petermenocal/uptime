@@ -1,7 +1,7 @@
 url: https://us-central1-xhl-budtender.cloudfunctions.net/app/profile?q=961a6e98-1bcc-4c6b-b335-019df010f12c&searchType=true
 status: down
-code: 500
-responseTime: 125
-lastUpdated: 2025-08-14T23:00:28.811Z
+code: 503
+responseTime: 161
+lastUpdated: 2025-08-15T23:00:30.116Z
 startTime: 2021-01-15T22:23:08.000Z
 generator: Upptime <https://github.com/upptime/upptime>
